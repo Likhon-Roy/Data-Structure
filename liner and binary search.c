@@ -12,7 +12,6 @@ int main()
     }
     printf("enter the num which one you want to find\n");
     scanf("%d",&key);
-//    prntf
     first=0;
     last=n-1;
     j=lsearch(n,ary,key,first,last);
